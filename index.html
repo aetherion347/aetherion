@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Aetherion</title>
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700&display=swap');
+
+    body {
+        margin: 0;
+        padding: 0;
+        font-family: 'Orbitron', sans-serif;
+        background: linear-gradient(135deg, #2c003e, #3a0066);
+        color: #fff;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        text-align: center;
+    }
+
+    .logo {
+        width: 250px;
+        margin-bottom: 20px;
+    }
+
+    h1 {
+        font-size: 3em;
+        color: #e0b0ff;
+        margin: 10px 0;
+        text-shadow: 0 0 20px #ff00ff, 0 0 30px #00ffff;
+    }
+
+    p {
+        font-size: 1.5em;
+        color: #a0a0ff;
+        margin: 10px 0 30px;
+    }
+
+    a.contact-button {
+        text-decoration: none;
+        padding: 15px 30px;
+        font-size: 1.2em;
+        background: linear-gradient(135deg, #ff00ff, #00ffff);
+        color: #000;
+        border-radius: 50px;
+        box-shadow: 0 0 20px #ff00ff, 0 0 30px #00ffff;
+        transition: all 0.3s ease;
+    }
+
+    a.contact-button:hover {
+        transform: scale(1.1);
+        box-shadow: 0 0 40px #ff00ff, 0 0 50px #00ffff;
+    }
+
+    @media (max-width: 600px) {
+        h1 { font-size: 2em; }
+        p { font-size: 1em; }
+        .logo { width: 180px; }
+    }
+</style>
+</head>
+<body>
+
+    <!-- Logo -->
+    <img src="images/aetherion_logo.png" alt="Aetherion Logo" class="logo">
+
+    <!-- Company Name & Description -->
+    <h1>Aetherion</h1>
+    <p>Advanced ICT & Space Research</p>
+    <p>Coming Soon - Research Underway</p>
+
+    <!-- Contact Button -->
+    <a href="mailto:contact@aetherion.com" class="contact-button">Contact Us</a>
+
+</body>
+  </html>
