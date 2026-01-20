@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Aetherion | Advanced ICT & Space Research</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, Helvetica, sans-serif;
+            background: #120021;
+            color: #f2e9ff;
+            line-height: 1.7;
+        }
+        header {
+            text-align: center;
+            padding: 80px 20px;
+        }
+        h1 {
+            font-size: 48px;
+            letter-spacing: 3px;
+            color: #b57aff;
+        }
+        h2 {
+            font-weight: normal;
+            color: #d7bfff;
+        }
+        section {
+            max-width: 900px;
+            margin: auto;
+            padding: 40px 20px;
+        }
+        a {
+            color: #cfa8ff;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        footer {
+            text-align: center;
+            padding: 30px;
+            font-size: 14px;
+            color: #9f86c0;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>AETHERION</h1>
+    <h2>Advanced ICT & Space Research Initiative</h2>
+</header>
+
+<section>
+    <p>
+        Aetherion কোনো প্রচলিত প্রযুক্তি–স্টার্টআপ নয়; এটি একটি চিন্তাভিত্তিক গবেষণা উদ্যোগ—
+        যেখানে উন্নত তথ্যপ্রযুক্তি ও মহাকাশবিজ্ঞানের মিলনে ভবিষ্যতের জ্ঞানভূমি নির্মাণের প্রস্তুতি চলছে।
+        এই প্রতিষ্ঠান তাৎক্ষণিক সাফল্যের চেয়ে দীর্ঘমেয়াদি বৈজ্ঞানিক গভীরতাকে অগ্রাধিকার দেয়।
+    </p>
+
+    <h3>Core Focus</h3>
+    <ul>
+        <li>Advanced Information & Communication Technology</li>
+        <li>Space Science & Research-Oriented Innovation</li>
+        <li>Long-term Scientific Vision & Knowledge Development</li>
+    </ul>
+
+    <h3>Vision</h3>
+    <p>
+        Aetherion ভবিষ্যতে এমন একটি গবেষণাভিত্তিক সত্তায় রূপ নিতে চায়,
+        যা আন্তর্জাতিক বিজ্ঞান ও প্রযুক্তি পরিবেশে নিজস্ব চিন্তাগত অবস্থান তৈরি করবে—
+        অনুকরণ নয়, বরং অবদান রাখার মানসিকতা নিয়ে।
+    </p>
+
+    <p>
+        👉 <a href="founder.html">Learn more about the Founder</a>
+    </p>
+</section>
+
+<footer>
+    © Aetherion — Research in Progress
+</footer>
+
+</body>
+</html>
